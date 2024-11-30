@@ -1,0 +1,7 @@
+🗂️ Resources:
+ • Code Repository: https://github.com/trentpark8800/air-...
+ • Open AQ: https://openaq.org
+ • DuckDB Documentation: https://duckdb.org
+ • Plotly Dash: https://dash.plotly.com/
+ • Dbeaver: https://dbeaver.io/download/
+ • Bbox Finder: http://bboxfinder.com/

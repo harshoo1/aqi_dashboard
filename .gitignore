@@ -1,0 +1,36 @@
+private.json
+
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+.pytest_cache/
+
+# Test files
+tests/
+*.egg-info/
+.eggs/
+
+# Build files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Sphinx documentation
+docs/_build/
+
+# IPython notebook files
+*.ipynb_checkpoints/
+
+# Virtual environment
+.env
+venv/
+env/
+venv
+ENV/
+
+
+# IDE files
+.idea/
+.vscode/
